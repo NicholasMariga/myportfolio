@@ -4,11 +4,10 @@
     "description": "<p align=\"left\">   Work portfolio/projects for Nicholas Mariga </p>",
     "main": "index.js",
     "scripts": {
-
-
-        "test": "echo \"Error: no test specified\" && exit 1"
-
-
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
     },
     "author": "",
     "license": "ISC"
