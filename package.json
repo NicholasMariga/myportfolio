@@ -4,7 +4,7 @@
     "description": "<p align=\"left\">   Work portfolio/projects for Nicholas Mariga </p>",
     "main": "index.js",
     "scripts": {
-        "build": "CI= react-scripts build",
+        "build": "CI= npm run build",
         "test": "echo \"Error: no test specified\" && exit 1"
 
 
